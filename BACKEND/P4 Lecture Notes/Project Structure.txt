@@ -1,0 +1,13 @@
+Project Structure
+-----------------
+frontend
+
+backend (Manually Created)
+~database
+	-dbconfig.js
+~models
+	-user.js
+~routes
+	-auth.js
+-server.js/app.js - This is where we write the base logic
+-package.json

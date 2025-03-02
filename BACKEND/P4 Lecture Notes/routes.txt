@@ -1,0 +1,11 @@
+Users
+-----
+http://localhost:4000/api/auth/register
+http://localhost:4000/api/auth/login
+
+Transaction
+-----------
+http://localhost:4000/api/v1/addTransaction
+http://localhost:4000/api/v1/getTransaction
+http://localhost:4000/api/v1/deleteTransaction/:id
+http://localhost:4000/api/v1/updateTransaction/:id

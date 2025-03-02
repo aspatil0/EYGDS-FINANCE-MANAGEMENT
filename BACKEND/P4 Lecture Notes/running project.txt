@@ -1,0 +1,12 @@
+project from scratch
+-create backend folder
+-create server.js inside it
+-npm init -y -> will create package.json
+-install the dependencies - express,cors,bcrypt,mongoose
+-create sub folders and files as per logic
+-npm start
+
+running a existing project
+-download to backend folder
+-npm install
+-npm start

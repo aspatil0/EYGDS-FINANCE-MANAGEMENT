@@ -1,0 +1,13 @@
+Week2 Milestone
+---------------
+Improvisations in the backend
+- Improve the working existing routes - validations
+- Add new routes - multi deletion, fetch single trandaction detail
+- Adjustments in the project structure
+
+Deadline:
+2nd Mar Sun 6pm
+
+On LMS - As usual
+
+AMA - 28th Fri Feb (Optional)

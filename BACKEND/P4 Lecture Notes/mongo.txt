@@ -1,0 +1,9 @@
+mongodb://127.0.0.1:27017/finmanager 
+- this connects node to databse finmanager
+
+mongodb://127.0.0.1:27017/ - then it will use 'test' database
+mongodb://localhost:27017
+
+If you are not able to connect to mongodb server from compass
+-open command prompt
+-execute: net start mongodb
